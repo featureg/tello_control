@@ -4,6 +4,7 @@ a tello_control algorithm using motive tracker.
 run the following command to active the drone.
 
 1.roslaunch kobuki_node minimal.launch --screen
+
 focus on this terminal to control the ground robot.
 
 2.roslaunch kobuki_keyop keyop.launch --screen
